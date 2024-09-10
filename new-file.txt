@@ -1,4 +1,3 @@
 Adding 1st text
-I am not liking the 2nd text so I have changed it.
+I have removed the 4th text and changed 2nd text
 Adding 3rd text
-But I believe the 4th text will make this file look better.
