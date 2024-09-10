@@ -5,3 +5,7 @@ Let me add something in this file to update the master branch
 This is enough and merge all the changes once you are ready.
 I have also created new branch for new work.
 I am trying to make another branch named "dream" to build this project towards a dream.
+
+
+************ I am going to something bigger, greater and better *************
+My dream is to build an ideology which would assist humans to understand each other by being very adaptable, trustworthy and acceptance.
